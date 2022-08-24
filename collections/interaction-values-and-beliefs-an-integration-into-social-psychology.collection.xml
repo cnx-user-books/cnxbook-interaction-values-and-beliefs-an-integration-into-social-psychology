@@ -1,109 +1,31 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Mark Rozen Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11376</md:content-id>
-  <md:title>Interaction Values and Beliefs: An Integration into Social Psychology</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>6138ab4a-4104-4211-acdb-478d7ac1626b</md:uuid>
-<md:slug>interaction-values-and-beliefs-an-integration-into-social-psychology</md:slug>
-</metadata>
-
+    <md:content-id>col11376</md:content-id>
+    <md:title>Interaction Values and Beliefs: An Integration into Social Psychology</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>6138ab4a-4104-4211-acdb-478d7ac1626b</md:uuid>
+    <md:slug>interaction-values-and-beliefs-an-integration-into-social-psychology</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m41575"/>
-        
-      
-    
-    
-      <col:module document="m41576"/>
-        
-      
-    
-    
-      <col:module document="m41581"/>
-        
-      
-    
-    
-      <col:module document="m41582"/>
-        
-      
-    
-    
-      <col:module document="m41583"/>
-        
-      
-    
-    
-      <col:module document="m41584"/>
-        
-      
-    
-    
-      <col:module document="m41587"/>
-        
-      
-    
-    
-      <col:module document="m41588"/>
-        
-      
-    
-    
-      <col:module document="m41589"/>
-        
-      
-    
-    
-      <col:module document="m41590"/>
-        
-      
-    
-    
-      <col:module document="m41592"/>
-        
-      
-    
-    
-      <col:module document="m41600"/>
-        
-      
-    
-    
-      <col:module document="m41601"/>
-        
-      
-    
-    
-      <col:module document="m41604"/>
-        
-      
-    
-    
-      <col:module document="m41606"/>
-        
-      
-    
-    
-      <col:module document="m41607"/>
-        
-      
-    
-    
-      <col:module document="m41613"/>
-        
-      
-    
-    
-      <col:module document="m41614"/>
-        
-      
-    
+    <col:module document="m41575"/>
+    <col:module document="m41576"/>
+    <col:module document="m41581"/>
+    <col:module document="m41582"/>
+    <col:module document="m41583"/>
+    <col:module document="m41584"/>
+    <col:module document="m41587"/>
+    <col:module document="m41588"/>
+    <col:module document="m41589"/>
+    <col:module document="m41590"/>
+    <col:module document="m41592"/>
+    <col:module document="m41600"/>
+    <col:module document="m41601"/>
+    <col:module document="m41604"/>
+    <col:module document="m41606"/>
+    <col:module document="m41607"/>
+    <col:module document="m41613"/>
+    <col:module document="m41614"/>
   </col:content>
 </col:collection>
